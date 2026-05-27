@@ -3,6 +3,7 @@
 Aplicación web desarrollada en **JavaScript** que muestra el clima actual de una ciudad utilizando una API pública.
 
 ## ⚙️ Funcionalidades
+
 - Búsqueda de clima por nombre de ciudad.
 - Consumo de API externa (por ejemplo, OpenWeatherMap).
 - Visualización de temperatura, humedad y descripción del clima.
